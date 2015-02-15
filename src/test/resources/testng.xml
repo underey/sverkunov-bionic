@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestSuite" verbose="1">
+	<test name="RealNumberTest">
+		<classes>
+			<class name="testhomework3.RealNumberTest" />
+		</classes>
+	</test>
+</suite>
