@@ -6,4 +6,9 @@
 			<class name="testhomework3.TryTest" />
 		</classes>
 	</test>
+	<test name="OLXTest">
+		<classes>
+			<class name="testhomework4.TestOLX" />
+		</classes>
+	</test>
 </suite>
